@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kampus
-image: /img/guest-teacher-kampus-full-praktek.jpg
+image: /img/chemex.jpg
 heading: Kuliah Langsung Praktek hanya di Areta Informatics College
 subheading: Full Praktek
 mainpitch:
