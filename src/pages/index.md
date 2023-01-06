@@ -1,17 +1,17 @@
 ---
 templateKey: index-page
-title: Areta Informatics College
-image: /img/guest-teacher-kampus-full-praktek.jpg
-heading: Kuliah Langsung Praktek hanya di Areta Informatics College
-subheading: Kampus Full Praktek
+title: Layanan Web dan Landingpage
+image: /img/chemex.jpg
+heading: Web dan landigpage bertenaga SEO
+subheading: untuk meningkatkan penjualan produk dan jasa anda
 mainpitch:
-  title: Mengapa kuliah di Areta Informatics College
-  description: Metode belajar dengan cara 90% praktek 10% teori memudahkan peserta
-    didik untuk mendapatkan skill dan kompetensi yang terukur, memenuhi
-    kebutuhan kerja baik di bidang IT maupun dibidang Digital Marketing
-description: Pembelajaran yang diterapkan di Areta Informatics College sangat
-  relevan dengan kebutuhan industri dan bisnis saat ini, dimana skill dan
-  kompetensi sangat dibutuhkan.
+  title: Mengapa memilih jasa kami
+  description: Layanan pembuatan web dan landingpage yang kami kembangkan
+    menggunakan teknologi terkini, menjadikan performa, akses, dan optimasi
+    mesin pencari secara optimal.
+description: Kami membangun sebuah web dan landingpage yang cepat, responsif,
+  bertenaga Mesin Pencari Google, sehingga sangat cepat di index. Menjadikan web
+  dan landingpage anda teratas di mesin pencari.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -41,12 +41,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Dikembangkan dengan teknologi modern
+  description: Nikmati layanan kami dengan harga yang kompetitif layanan optimal
+    bergaransi, tidak terbukti uang kembali.
 main:
   heading: Great coffee with no compromises
   description: >
