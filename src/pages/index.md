@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Areta Informatics College
+image: /img/kuliah-kelas-karyawan-daerah-tangerang.jpg
+heading: Kuliah Langsung Praktek hanya di Areta Informatics College
+subheading: Kampus Full Praktek
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Mengapa kuliah di Areta Informatics College
+  description: Metode belajar dengan cara 90% praktek 10% teori memudahkan peserta
+    didik untuk mendapatkan skill dan kompetensi yang terukur, memenuhi
+    kebutuhan kerja baik di bidang IT maupun dibidang Digital Marketing
+description: Pembelajaran yang diterapkan di Areta Informatics College sangat
+  relevan dengan kebutuhan industri dan bisnis saat ini, dimana skill dan
+  kompetensi sangat dibutuhkan.
 intro:
   blurbs:
     - image: /img/coffee.png
