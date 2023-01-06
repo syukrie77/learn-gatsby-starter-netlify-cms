@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Areta Informatics College
-image: /img/kuliah-kelas-karyawan-daerah-tangerang.jpg
+image: /img/foto-networking-komputer.jpg
 heading: Kuliah Langsung Praktek hanya di Areta Informatics College
 subheading: Kampus Full Praktek
 mainpitch:
