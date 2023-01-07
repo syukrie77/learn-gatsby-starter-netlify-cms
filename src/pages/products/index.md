@@ -1,18 +1,17 @@
 ---
-heading: Peluang bagi Anda yang ingin mendapatkan beasiswa
+heading: "Proyek yang selesai dikembagkan "
 path: /products
 templateKey: product-page
-title: Program Beasiswa
+title: Beberapa proyek yang sudah dikerjakan
 image: /img/jumbotron.jpg
-description: Areta Informatics College memberikan beasiswa kuliah 100% kepada
-  calon mahasiswa yang berprestasi dan kurang mampu untuk mendapatkan kuliah
-  secara gratis
+description: Beberapa proyek yang sudah dikembangkan antara lain web proproty,
+  web kampus, web sekolah, katalog produk, landingpae dan lain sebagainya.
 intro:
   blurbs:
     - image: /img/web-ezasamara.png
       text: Website Eza Samara Residence perusahaan developer property yang
         dikembangkan dengan konsep landingpage
-    - image: /img/guest-teacher-kampus-full-praktek.jpg
+    - image: /img/web-sekolah.png
       text: Pengalaman kami mencetak peserta didik tidak diragukan lagi, sudah banyak
         mahasiswa kami yang berhasil memiliki prestasi menjadi seorang IT
         profesional di perusahaan-perusahaan dan instansi terkemuka di Indonesia
