@@ -9,11 +9,9 @@ description: Areta Informatics College memberikan beasiswa kuliah 100% kepada
   secara gratis
 intro:
   blurbs:
-    - image: /img/beasiswa-kampus-full-praktek.jpg
-      text: Dapatkan beasiswa 100% selama masa studi di Areta Informatics College
-        sampai jenjang sarjana. Nikmati pengalaman belajar dengan metode 90%
-        praktek 10% teori yang membimbing anda menjadi seorang IT Profesional
-        dan Digital Marketer yang mumpuni.
+    - image: /img/web-ezasamara.png
+      text: Website Eza Samara Residence perusahaan developer property yang
+        dikembangkan dengan konsep landingpage
     - image: /img/guest-teacher-kampus-full-praktek.jpg
       text: Pengalaman kami mencetak peserta didik tidak diragukan lagi, sudah banyak
         mahasiswa kami yang berhasil memiliki prestasi menjadi seorang IT
