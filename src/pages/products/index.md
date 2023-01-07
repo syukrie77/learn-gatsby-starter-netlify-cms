@@ -12,10 +12,8 @@ intro:
       text: Website Eza Samara Residence perusahaan developer property yang
         dikembangkan dengan konsep landingpage
     - image: /img/web-sekolah.png
-      text: Pengalaman kami mencetak peserta didik tidak diragukan lagi, sudah banyak
-        mahasiswa kami yang berhasil memiliki prestasi menjadi seorang IT
-        profesional di perusahaan-perusahaan dan instansi terkemuka di Indonesia
-        maupun luar negeri.
+      text: Web sekolah adalah web informasi tentang sekolah seperti jurusan,
+        kesempatan mendapatkan pekerjaan dan lain sebagainya.
     - image: /img/kampus-full-praktek-tangerang.jpg
       text: Pastikan anda terdaftar di kelas kampus full praktek untuk merasakan
         proses belajar yang luar biasa dengan pengajar yang ahli dibidangnya
