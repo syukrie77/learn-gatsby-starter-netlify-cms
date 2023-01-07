@@ -19,12 +19,10 @@ intro:
         Web dan landingpage yang kami hasilkan cepat, teroptimasi, aman,
         skalabilitas, seo enabled. Menjadikan web dan landingpage yang kami
         bangun menjadi pilihan terbaik untuk Anda.
-    - image: /img/coffee-gear.png
+    - image: /img/taras-shypka-ifsvn82xfgo-unsplash.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Web dan landingpage yang kami kembangkan responsive, cocok untuk mobile,
+        menyesuaikan layanan device anda. Jadi sangat fleksible untuk anda.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
