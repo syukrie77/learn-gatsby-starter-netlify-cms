@@ -14,7 +14,7 @@ description: Kami membangun sebuah web dan landingpage yang cepat, responsif,
   dan landingpage anda teratas di mesin pencari.
 intro:
   blurbs:
-    - image: https://unsplash.com/photos/hGV2TfOh0ns
+    - image: /img/domenico-loia-hgv2tfoh0ns-unsplash.jpg
       text: >
         Web dan landingpage yang kami hasilkan cepat, teroptimasi, aman,
         skalabilitas, seo enabled. Menjadikan web dan landingpage yang kami
