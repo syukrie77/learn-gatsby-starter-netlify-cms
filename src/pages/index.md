@@ -14,19 +14,15 @@ description: Kami membangun sebuah web dan landingpage yang cepat, responsif,
   dan landingpage anda teratas di mesin pencari.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/domenico-loia-hgv2tfoh0ns-unsplash.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Web dan landingpage yang kami hasilkan cepat, teroptimasi, aman,
+        skalabilitas, seo enabled. Menjadikan web dan landingpage yang kami
+        bangun menjadi pilihan terbaik untuk Anda.
+    - image: /img/taras-shypka-ifsvn82xfgo-unsplash.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Web dan landingpage yang kami kembangkan responsive, cocok untuk mobile,
+        menyesuaikan layanan device anda. Jadi sangat fleksible untuk anda.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a

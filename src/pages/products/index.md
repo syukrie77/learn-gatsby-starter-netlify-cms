@@ -1,24 +1,19 @@
 ---
-heading: Peluang bagi Anda yang ingin mendapatkan beasiswa
+heading: "Proyek yang selesai dikembagkan "
 path: /products
 templateKey: product-page
-title: Program Beasiswa
+title: Beberapa proyek yang sudah dikerjakan
 image: /img/jumbotron.jpg
-description: Areta Informatics College memberikan beasiswa kuliah 100% kepada
-  calon mahasiswa yang berprestasi dan kurang mampu untuk mendapatkan kuliah
-  secara gratis
+description: Beberapa proyek yang sudah dikembangkan antara lain web proproty,
+  web kampus, web sekolah, katalog produk, landingpae dan lain sebagainya.
 intro:
   blurbs:
-    - image: /img/beasiswa-kampus-full-praktek.jpg
-      text: Dapatkan beasiswa 100% selama masa studi di Areta Informatics College
-        sampai jenjang sarjana. Nikmati pengalaman belajar dengan metode 90%
-        praktek 10% teori yang membimbing anda menjadi seorang IT Profesional
-        dan Digital Marketer yang mumpuni.
-    - image: /img/guest-teacher-kampus-full-praktek.jpg
-      text: Pengalaman kami mencetak peserta didik tidak diragukan lagi, sudah banyak
-        mahasiswa kami yang berhasil memiliki prestasi menjadi seorang IT
-        profesional di perusahaan-perusahaan dan instansi terkemuka di Indonesia
-        maupun luar negeri.
+    - image: /img/web-ezasamara.png
+      text: Website Eza Samara Residence perusahaan developer property yang
+        dikembangkan dengan konsep landingpage
+    - image: /img/web-sekolah.png
+      text: Web sekolah adalah web informasi tentang sekolah seperti jurusan,
+        kesempatan mendapatkan pekerjaan dan lain sebagainya.
     - image: /img/kampus-full-praktek-tangerang.jpg
       text: Pastikan anda terdaftar di kelas kampus full praktek untuk merasakan
         proses belajar yang luar biasa dengan pengajar yang ahli dibidangnya
