@@ -15,7 +15,7 @@ description: Kami membangun sebuah web dan landingpage yang cepat, responsif,
   anda teratas di mesin pencari google.
 intro:
   blurbs:
-    - image: /img/gtmetrix-grade.png
+    - image: /img/grade-a-gtmetrix.png
       text: >
         Akses web sangat cepat dan peningkatan SEO yang optimal sehingga ramah
         dengan mesin pencari google, sehingga memudahkan web dan landingpage
