@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Kampus Full Praktek Areta Informatics College",
+    title: "Layanan Web Landingpage Cepat, Aman, bertenaga SEO",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Web landingpage PT. Aretanet Indonesia untuk menjual jasa web dan landingpage bertenaga SEO dengan Gatsby JS.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
