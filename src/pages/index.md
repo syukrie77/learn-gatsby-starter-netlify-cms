@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tingkatkan Penjualan Anda Bersama Kami
-image: /img/taras-shypka-ifsvn82xfgo-unsplash.jpg
+image: /img/chemex.jpg
 heading: Web dan landigpage bertenaga SEO
 subheading: Web super cepat, aman, performa terbaik, bertenaga seo hanya 100 ribu perbulan
 mainpitch:
