@@ -15,22 +15,21 @@ description: Kami membangun sebuah web dan landingpage yang cepat, responsif,
   anda teratas di mesin pencari google.
 intro:
   blurbs:
+    - image: /img/gtmetrix-grade.png
+      text: >
+        Akses web sangat cepat dan peningkatan SEO yang optimal sehingga ramah
+        dengan mesin pencari google, sehingga memudahkan web dan landingpage
+        Anda teratas di halaman google.
+    - image: /img/taras-shypka-ifsvn82xfgo-unsplash.jpg
+      text: Pembuatan dan pengembangan web yang cepat bisa kami lakukan sehingga tidak
+        menyita waktu yang lama.
+    - image: /img/kevin-ku-w7zyugynprq-unsplash.jpg
+      text: Kami menghosting web di server yang aman dan kuat sehingga kecil sekali
+        untuk diserang hacker.
     - image: /img/domenico-loia-hgv2tfoh0ns-unsplash.jpg
       text: >
-        Web dan landingpage yang kami hasilkan cepat, teroptimasi, aman,
-        skalabilitas, seo enabled. Menjadikan web dan landingpage yang kami
-        bangun menjadi pilihan terbaik untuk Anda.
-    - image: /img/taras-shypka-ifsvn82xfgo-unsplash.jpg
-      text: >
-        Web dan landingpage yang kami kembangkan responsive, cocok untuk mobile,
-        menyesuaikan layanan device anda. Jadi sangat fleksible untuk anda.
-    - image: /img/tutorials.png
-      text: Web yang kami kembangkan 100% ramah selular, bentuk web akan menyesuiakan
-        layar hp anda sehingga sangat responsive.
-    - image: /img/meeting-space.png
-      text: >
-        Kami menghosting web di server yang aman dan kuat sehingga kecil sekali
-        untuk diserang hacker.
+        Web yang kami kembangkan 100% ramah selular, bentuk web akan
+        menyesuiakan layar hp anda sehingga sangat responsive.
   heading: Dikembangkan dengan teknologi modern
   description: Nikmati layanan kami dengan harga yang kompetitif layanan optimal
     bergaransi, tidak terbukti uang kembali.
