@@ -14,15 +14,12 @@ intro:
     - image: /img/web-sekolah.png
       text: Web sekolah adalah web informasi tentang sekolah seperti jurusan,
         kesempatan mendapatkan pekerjaan dan lain sebagainya.
-    - image: /img/kampus-full-praktek-tangerang.jpg
-      text: Pastikan anda terdaftar di kelas kampus full praktek untuk merasakan
-        proses belajar yang luar biasa dengan pengajar yang ahli dibidangnya
-        masing-masing. Kami memberikan yang terbaik untuk peserta didik.
-    - image: /img/kampus-full-praktek-tangerang.jpg
-      text: Kembangkan bakat dan minat anda di Areta Informatics College nikmati
-        proses belajar mengajarnya yang luar biasa. Kami menjamin anda untuk
-        dapat sukses bersama, dengan memiliki skill dan komptensi yang
-        dibutuhkan saat ini.
+    - image: /img/eza-samara-5.png
+      text: Landingpage eza samara residence kuta bumi pasar kemis. Web marketing
+        property syariah.
+    - image: /img/aneka-busa.png
+      text: Web toko online PT. Aneka Busa Indonesia untuk penjualan online produk
+        produk busa berkualitas
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -30,12 +27,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: "Kecepatan loading website dan build-in seo "
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Web yang cepat dan seo yang tersematkan di dalam web, menjadikan web yang
+    kami kembangkan sangat optimal
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -54,30 +49,31 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Investasi perbulan
+  description: Anda cukup investasi mulai 100 ribu per bulan, sudah mendapatkan
+    website yang optimal dalam menjalankan peningkatan penjualan.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Web portfolio standard
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - domain
+        - hosting
+        - seo
+      plan: Basic
+      price: "100.000"
+    - description: Web portfolio dan landingpage
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - domain
+        - hosting
+        - seo
+        - blog
+      plan: Silver
+      price: "200.000"
+    - description: web portfolio, landingpage, blog marketing
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - domain
+        - hosting
+        - seo
+        - blog-marketing
+      plan: Gold
+      price: "300.000"
 ---
