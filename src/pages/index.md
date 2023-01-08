@@ -1,17 +1,18 @@
 ---
 templateKey: index-page
-title: Layanan Web dan Landingpage
-image: /img/chemex.jpg
+title: Tingkatkan Penjualan Anda Bersama Kami
+image: /img/taras-shypka-ifsvn82xfgo-unsplash.jpg
 heading: Web dan landigpage bertenaga SEO
-subheading: untuk meningkatkan penjualan produk dan jasa anda
+subheading: Web super cepat, aman, performa terbaik, bertenaga seo hanya 100 ribu perbulan
 mainpitch:
   title: Mengapa memilih jasa kami
-  description: Layanan pembuatan web dan landingpage yang kami kembangkan
-    menggunakan teknologi terkini, menjadikan performa, akses, dan optimasi
-    mesin pencari secara optimal.
+  description: >
+    Layanan pembuatan web dan landingpage yang kami kembangkan menggunakan
+    teknologi terkini, menjadikan performa, akses, kecepatan loading dan
+    optimasi seo secara optimal.
 description: Kami membangun sebuah web dan landingpage yang cepat, responsif,
-  bertenaga Mesin Pencari Google, sehingga sangat cepat di index. Menjadikan web
-  dan landingpage anda teratas di mesin pencari.
+  bertenaga seo, sehingga sangat cepat terindex.  Menjadikan web dan landingpage
+  anda teratas di mesin pencari google.
 intro:
   blurbs:
     - image: /img/domenico-loia-hgv2tfoh0ns-unsplash.jpg
@@ -24,19 +25,12 @@ intro:
         Web dan landingpage yang kami kembangkan responsive, cocok untuk mobile,
         menyesuaikan layanan device anda. Jadi sangat fleksible untuk anda.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Web yang kami kembangkan 100% ramah selular, bentuk web akan menyesuiakan
+        layar hp anda sehingga sangat responsive.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami menghosting web di server yang aman dan kuat sehingga kecil sekali
+        untuk diserang hacker.
   heading: Dikembangkan dengan teknologi modern
   description: Nikmati layanan kami dengan harga yang kompetitif layanan optimal
     bergaransi, tidak terbukti uang kembali.
