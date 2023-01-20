@@ -34,19 +34,16 @@ intro:
   description: Nikmati layanan kami dengan harga yang kompetitif layanan optimal
     bergaransi, tidak terbukti uang kembali.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Headless cms dengan framework gatsbyjs
+  description: Gatsby js merupakan framework reactjs untuk production. Kecepatan,
+    kekuatan, keamanan dan ber seo pantas untuk disematkan.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/screenshot_2023_0120_202508.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: The real website modern
+    image: /img/screenshot_20230120_205938.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Headless cma
+    image: /img/screenshot_20230120_203533.jpg
 ---
